@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://medaillosse-web.github.io/antiquites/sitemap.xml
